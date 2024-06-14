@@ -1,1 +1,1 @@
-# pandas series ans dataframe basic to advansed
+# pandas series and dataframe basic to advansed
